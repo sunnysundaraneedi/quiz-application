@@ -1,0 +1,11 @@
+.final_container {
+  width: 60%;
+  height: 70vh;
+  margin: 24px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+}

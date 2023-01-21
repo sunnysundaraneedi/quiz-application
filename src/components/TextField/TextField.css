@@ -1,0 +1,12 @@
+.select_container input {
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+  border: 1px solid #bbb;
+  height: 45px;
+  padding: 10px 15px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #464545;
+  border-radius: 4px;
+}
